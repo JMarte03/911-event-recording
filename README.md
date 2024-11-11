@@ -30,8 +30,6 @@ Potential future additions could include an edit functionality, advanced filteri
 
 This project allowed me to deepen my understanding of Firebase for real-time data storage and React Navigation for handling bottom-tab and stack navigation in a mobile app. I also gained experience using external libraries to add functionality, such as date and image picking.
 
----
-
 ## Other Projects:
 
 - **Password Generator:** (Add link here)

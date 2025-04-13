@@ -1,6 +1,6 @@
 # 🚑 911 Event Recording App
 
-This is a React Native app built with Expo that allows users to register and manage 911 events, such as accidents. The app was developed as part of an assignment to learn database integration and navigation in mobile applications.
+This is a React Native app built with Expo that allows users to register and manage 911 events, such as accidents. The app was developed as part of an assignment to learn database integration and navigation in mobile applications
 
 ![Diseño sin título (8)](https://github.com/user-attachments/assets/8bf10a9e-a525-43f4-9941-0170c100ade8)
 
